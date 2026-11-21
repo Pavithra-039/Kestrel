@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Goods Checkout",
+  "description": "Single-page storefront checkout with real-time bag line totals, validation, and idempotent order confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
